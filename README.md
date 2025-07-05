@@ -1,4 +1,3 @@
-# HTF24-Team-182
 
 ## GitHub submission guide
 
@@ -72,5 +71,3 @@ In this Readme, you will find a guide on how to fork this Repository, add files 
  <li>Wait for a few moments, then you are all done</li>
 </ul>
 </details>
-
-## Thanks for participating!
